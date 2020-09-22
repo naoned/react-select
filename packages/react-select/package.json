@@ -1,6 +1,6 @@
 {
-  "name": "react-select",
-  "version": "3.1.0",
+  "name": "@naoned-systemes/react-select",
+  "version": "1.0.1",
   "description": "A Select control built with and for ReactJS",
   "main": "dist/react-select.cjs.js",
   "module": "dist/react-select.esm.js",
